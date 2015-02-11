@@ -1,0 +1,2 @@
+
+完成截屏功能的核心代码：- (void)renderInContext:(CGContextRef)ctx;调用某个view的layer的renderInContext:方法即可
